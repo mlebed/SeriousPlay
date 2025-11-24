@@ -33,7 +33,7 @@ const quizData = {
       correct: 2,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/8A%20-%20Aesthetic%20and%20Minimalist%20Design1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/8A%20-%20Aesthetic%20and%20Minimalist%20Design2.jpg",
-      explanation: "Interfaces should avoid unnecessary information or clutter, focusing on essential content. If the picture shows a clean layout with minimal buttons or content, this heuristic is being followed."
+      explanation: "Great attempt but interfaces should avoid unnecessary information or clutter, focusing only on essential content. If the picture shows a clean layout with minimal buttons or content, this heuristic is being followed."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -41,7 +41,7 @@ const quizData = {
       correct: 4,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/2A%20-%20Match%20Between%20the%20System%20and%20the%20Real%20World1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/2A%20-%20Match%20Between%20the%20System%20and%20the%20Real%20World2.jpg",
-      explanation: "The system should use the user’s language, including words, concepts, and icons that are familiar, following real-world conventions. If the image shows real-world icons like a trash bin, folder, calendar, or familiar symbols, this heuristic is the one being illustrated."
+      explanation: "Nice try! Remember that the system should use the user’s language, including words, concepts, and icons that are familiar, following real-world conventions. If the image shows real-world icons like a trash bin, folder, calendar, or familiar symbols, this heuristic is the one being illustrated."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -49,7 +49,7 @@ const quizData = {
       correct: 1,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/5A%20-%20Error%20Prevention1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/5A%20-%20Error%20Prevention2.jpg",
-      explanation: "It’s better to prevent errors than to display error messages; design should help users avoid mistakes. If the image shows confirmation pop-ups, auto-validation fields, or disabled options to prevent mistakes, this is the heuristic at work."
+      explanation: "Almost! It’s better to prevent errors than to display error messages; design should help users avoid mistakes. If the image shows confirmation pop-ups, auto-validation fields, or disabled options to prevent mistakes, this is the heuristic at work."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -57,7 +57,7 @@ const quizData = {
       correct: 3,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/9A%20-%20Help%20Users%20Recognize%2C%20Diagnose%2C%20and%20Recover%20from%20Errors1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/9A%20-%20Help%20Users%20Recognize%2C%20Diagnose%2C%20and%20Recover%20from%20Errors2.jpg",
-      explanation: "When errors occur, users should be able to understand, identify, and fix them easily. If the picture shows clear error messages, suggestions for fixing mistakes, or highlights the problem location, this heuristic is demonstrated."
+      explanation: "Good effort! When errors occur, users should be able to understand, identify, and fix them easily. If the picture shows clear error messages, suggestions for fixing mistakes, or highlights the problem location, this heuristic is demonstrated."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -65,7 +65,7 @@ const quizData = {
       correct: 1,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/3A%20-%20User%20Control%20and%20Freedom1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/3A%20-%20User%20Control%20and%20Freedom2.jpg",
-      explanation: "Users need to have control over their actions and the ability to undo or redo decisions. This applies when the picture shows undo buttons, back navigation, cancel options, or ways to exit a process safely."
+      explanation: "You're getting there! Users need to have control over their actions and the ability to undo or redo decisions. This applies when the picture shows undo buttons, back navigation, cancel options, or ways to exit a process safely."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -73,7 +73,7 @@ const quizData = {
       correct: 4,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/1A%20-%20Visibility%20of%20status1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/1A%20-%20Visibility%20of%20status2.jpg",
-      explanation: "The system should always keep users informed about what is happening through timely and appropriate feedback. If the picture shows a loading bar, a notification, or an icon changing when something happens, this heuristic applies because it communicates the system’s status."
+      explanation: "Here’s a little tweak to make it clearer! The system should always keep users informed about what is happening through timely and appropriate feedback. If the picture shows a loading bar, a notification, or an icon changing when something happens, this heuristic applies because it communicates the system’s status."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -81,7 +81,7 @@ const quizData = {
       correct: 2,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/6A%20-%20Recognition%20Rather%20than%20Recall1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/6A%20-%20Recognition%20Rather%20than%20Recall2.jpg",
-      explanation: "Minimize the user’s memory load by making options visible rather than requiring them to remember information from elsewhere. If the image shows drop-down lists, recently used items, or auto-suggestions, this heuristic applies because it helps users recognize instead of recall."
+      explanation: "This is super close! Remember to minimize the user’s memory load by making options visible rather than requiring them to remember information from elsewhere. If the image shows drop-down lists, recently used items, or auto-suggestions, this heuristic applies because it helps users recognize instead of recall."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -89,7 +89,7 @@ const quizData = {
       correct: 3,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/4A%20-%20Consistency%20and%20Standards1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/4A%20-%20Consistency%20and%20Standards2.jpg",
-      explanation: "Design should be consistent, following conventions and standards so users don’t have to learn new behaviors unnecessarily. If buttons, menus, or icons look and behave the same throughout the system, this heuristic is being demonstrated."
+      explanation: "You are improving! Design should be consistent, following conventions and standards so users don’t have to learn new behaviors unnecessarily. If buttons, menus, or icons look and behave the same throughout the system, this heuristic is being demonstrated."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -97,7 +97,7 @@ const quizData = {
       correct: 2,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/10A%20-%20Help%20and%20Documentation2.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/10A%20-%20Help%20and%20Documentation1.jpg",
-      explanation: "Systems should provide help and guidance, even if the system is mostly usable without it. If the picture shows built-in tutorials, searchable help, or step-by-step guides, this heuristic applies."
+      explanation: "Keep going! Systems should provide help and guidance, even if the system is mostly usable without it. If the picture shows built-in tutorials, searchable help, or step-by-step guides, this heuristic applies."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -105,7 +105,7 @@ const quizData = {
       correct: 1,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/7A%20-%20Flexibility%20and%20Efficiency%20of%20Use1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/7A%20-%20Flexibility%20and%20Efficiency%20of%20Use2.jpg",
-      explanation: "The system should cater to both novice and expert users, allowing shortcuts or accelerators for frequent actions. If the picture shows keyboard shortcuts, customizable dashboards, or templates/macros, this heuristic is correct because it speeds up expert use while remaining accessible."
+      explanation: "Nice try! The system should cater to both novice and expert users, allowing shortcuts or accelerators for frequent actions. If the picture shows keyboard shortcuts, customizable dashboards, or templates/macros, this heuristic is correct because it speeds up expert use while remaining accessible."
     }
   ],
   hard: [
@@ -115,7 +115,7 @@ const quizData = {
       correct: 3,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/1B%20-%20Visibility%20of%20status1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/1B%20-%20Visibility%20of%20status2.jpg",
-      explanation: "The system should always keep users informed about what is happening through timely and appropriate feedback. If the picture shows a loading bar, a notification, or an icon changing when something happens, this heuristic applies because it communicates the system’s status."
+      explanation: "Almost! The system should always keep users informed about what is happening through timely and appropriate feedback. If the picture shows a loading bar, a notification, or an icon changing when something happens, this heuristic applies because it communicates the system’s status."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -123,7 +123,7 @@ const quizData = {
       correct: 1,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/10B%20-%20Help%20and%20Documentation1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/10B%20-%20Help%20and%20Documentation2.jpg",
-      explanation: "Systems should provide help and guidance, even if the system is mostly usable without it. If the picture shows built-in tutorials, searchable help, or step-by-step guides, this heuristic applies."
+      explanation: "You were so close! Systems should provide help and guidance, even if the system is mostly usable without it. If the picture shows built-in tutorials, searchable help, or step-by-step guides, this heuristic applies."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -131,7 +131,7 @@ const quizData = {
       correct: 4,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/3B%20-%20User%20Control%20and%20Freedom1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/3B%20-%20User%20Control%20and%20Freedom2.jpg",
-      explanation: "Users need to have control over their actions and the ability to undo or redo decisions. This applies when the picture shows undo buttons, back navigation, cancel options, or ways to exit a process safely."
+      explanation: "Good effort! Users need to have control over their actions and the ability to undo or redo decisions. This applies when the picture shows undo buttons, back navigation, cancel options, or ways to exit a process safely."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -139,7 +139,7 @@ const quizData = {
       correct: 2,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/7B%20-%20Flexibility%20and%20Efficiency%20of%20Use1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/7B%20-%20Flexibility%20and%20Efficiency%20of%20Use2.jpg",
-      explanation: "The system should cater to both novice and expert users, allowing shortcuts or accelerators for frequent actions. If the picture shows keyboard shortcuts, customizable dashboards, or templates/macros, this heuristic is correct because it speeds up expert use while remaining accessible."
+      explanation: "Great attempt! Remember that the system should cater to both novice and expert users, allowing shortcuts or accelerators for frequent actions. If the picture shows keyboard shortcuts, customizable dashboards, or templates/macros, this heuristic is correct because it speeds up expert use while remaining accessible."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -147,7 +147,7 @@ const quizData = {
       correct: 3,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/8B%20-%20Aesthetic%20and%20Minimalist%20Design1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/8B%20-%20Aesthetic%20and%20Minimalist%20Design2.jpg",
-      explanation: "Interfaces should avoid unnecessary information or clutter, focusing on essential content. If the picture shows a clean layout with minimal buttons or content, this heuristic is being followed."
+      explanation: "Almost, but...Interfaces should avoid unnecessary information or clutter, focusing on essential content. If the picture shows a clean layout with minimal buttons or content, this heuristic is being followed."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -155,7 +155,7 @@ const quizData = {
       correct: 1,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/4B%20-%20Consistency%20and%20Standards1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/4B%20-%20Consistency%20and%20Standards2.jpg",
-      explanation: "Design should be consistent, following conventions and standards so users don’t have to learn new behaviors unnecessarily. If buttons, menus, or icons look and behave the same throughout the system, this heuristic is being demonstrated."
+      explanation: "So close! Design should be consistent, following conventions and standards so users don’t have to learn new behaviors unnecessarily. If buttons, menus, or icons look and behave the same throughout the system, this heuristic is being demonstrated."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -163,7 +163,7 @@ const quizData = {
       correct: 4,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/5B%20-%20Error%20Prevention1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/5B%20-%20Error%20Prevention2.jpg",
-      explanation: "It’s better to prevent errors than to display error messages; design should help users avoid mistakes. If the image shows confirmation pop-ups, auto-validation fields, or disabled options to prevent mistakes, this is the heuristic at work."
+      explanation: "You got this! It’s better to prevent errors than to display error messages; design should help users avoid mistakes. If the image shows confirmation pop-ups, auto-validation fields, or disabled options to prevent mistakes, this is the heuristic at work."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -171,7 +171,7 @@ const quizData = {
       correct: 2,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/6B%20-%20Recognition%20Rather%20than%20Recall1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/6B%20-%20Recognition%20Rather%20than%20Recall2.jpg",
-      explanation: "Minimize the user’s memory load by making options visible rather than requiring them to remember information from elsewhere. If the image shows drop-down lists, recently used items, or auto-suggestions, this heuristic applies because it helps users recognize instead of recall."
+      explanation: "Nice try! Minimize the user’s memory load by making options visible rather than requiring them to remember information from elsewhere. If the image shows drop-down lists, recently used items, or auto-suggestions, this heuristic applies because it helps users recognize instead of recall."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -179,7 +179,7 @@ const quizData = {
       correct: 3,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/2B%20-%20Match%20Between%20the%20System%20and%20the%20Real%20World1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/2B%20-%20Match%20Between%20the%20System%20and%20the%20Real%20World2.jpg",
-      explanation: "The system should use the user’s language, including words, concepts, and icons that are familiar, following real-world conventions. If the image shows real-world icons like a trash bin, folder, calendar, or familiar symbols, this heuristic is the one being illustrated."
+      explanation: "Good attempt! but the system should use the user’s language, including words, concepts, and icons that are familiar, following real-world conventions. If the image shows real-world icons like a trash bin, folder, calendar, or familiar symbols, this heuristic is the one being illustrated."
     },
     {
       question: "Which heuristic is shown in the picture?",
@@ -187,7 +187,7 @@ const quizData = {
       correct: 4,
       image: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/9B%20-%20Help%20Users%20Recognize%2C%20Diagnose%2C%20and%20Recover%20from%20Errors1.jpg",
       feedbackImage: "https://raw.githubusercontent.com/mlebed/SeriousPlay/main/9B%20-%20Help%20Users%20Recognize%2C%20Diagnose%2C%20and%20Recover%20from%20Errors2.jpg",
-      explanation: "When errors occur, users should be able to understand, identify, and fix them easily. If the picture shows clear error messages, suggestions for fixing mistakes, or highlights the problem location, this heuristic is demonstrated."
+      explanation: "You are getting there! When errors occur, users should be able to understand, identify, and fix them easily. If the picture shows clear error messages, suggestions for fixing mistakes, or highlights the problem location, this heuristic is demonstrated."
     }
   ]
 };
